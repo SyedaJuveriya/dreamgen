@@ -1,5 +1,3 @@
-
-````
 # DreamGen 🎬
 
 DreamGen is an AI-powered prototype that transforms text-based ideas into short video previews.  
@@ -34,10 +32,10 @@ In future versions, this will be replaced with real AI-generated video models.
 ---
 
 ## 🛠 Tech Stack
-- **Python**
-- **Streamlit** (Frontend)
-- **Generative AI** (planned)
-- **Snowflake** (planned for metadata, prompts, and analytics)
+- Python
+- Streamlit (Frontend)
+- Generative AI (planned)
+- Snowflake (planned for metadata, prompts, and analytics)
 
 ---
 
@@ -46,38 +44,29 @@ In future versions, this will be replaced with real AI-generated video models.
 1. Install Streamlit:
 ```bash
 pip install streamlit
-````
-
-2. Run the app:
-
+```
+2. Run the app
 ```bash
 streamlit run app.py
 ```
+3.Open the browser at:
+http://localhost:8501
 
-3. Open the browser at:
-   [http://localhost:8501](http://localhost:8501)
+🔮 Future Scope
 
----
+Integration with real AI video generation APIs (e.g., Runway Gen-2)
 
-## 🔮 Future Scope
+Prompt history and analytics using Snowflake
 
-* Integration with real AI video generation APIs (e.g., Runway Gen-2)
-* Prompt history and analytics using Snowflake
-* User authentication and saved projects
-* Ethical AI safeguards for content generation
+User authentication and saved projects
 
----
+Ethical AI safeguards for content generation
 
-## 📌 Note
+📌 Note
 
-This is a **prototype** created for demonstration purposes.
+This is a prototype created for demonstration purposes.
 The current video output is a placeholder to showcase functionality and user flow.
 
----
-
-## 👩‍💻 Author
+👩‍💻 Author
 
 Syeda Juveriya
-
-```
-
