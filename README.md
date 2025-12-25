@@ -52,21 +52,21 @@ streamlit run app.py
 3.Open the browser at:
 http://localhost:8501
 
-🔮 Future Scope
+##🔮 Future Scope
 
-Integration with real AI video generation APIs (e.g., Runway Gen-2)
+- Integration with real AI video generation APIs (e.g., Runway Gen-2)
 
-Prompt history and analytics using Snowflake
+- Prompt history and analytics using Snowflake
 
-User authentication and saved projects
+- User authentication and saved projects
 
-Ethical AI safeguards for content generation
+- Ethical AI safeguards for content generation
 
-📌 Note
+##📌 Note
 
 This is a prototype created for demonstration purposes.
 The current video output is a placeholder to showcase functionality and user flow.
 
-👩‍💻 Author
+##👩‍💻 Author
 
 Syeda Juveriya
